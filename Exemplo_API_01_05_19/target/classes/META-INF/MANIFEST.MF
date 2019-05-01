@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: valter
+Build-Jdk: 11.0.2
+Implementation-Title: Exemplo_API_30_04_19
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.dominio
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Exemplo_API_30_04_19
+Created-By: Maven Integration for Eclipse
+
